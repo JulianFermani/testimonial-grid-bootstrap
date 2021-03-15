@@ -1,3 +1,40 @@
+body{
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 300;
+  background-color: #EDF2F8;
+}
+
+.h6{
+  font-size: 18px;
+}
+
+.d-flex img{
+  width: 50px;
+}
+
+.fondo-card{
+  background-image: url('images/bg-pattern-quotation.svg');
+  background-repeat: no-repeat;
+  background-position: 85% top;
+}
+
+.bg-primary{
+  background-color: #733FC8 !important;
+}
+
+.bg-success{
+  background-color: #49556B !important;
+}
+
+.bg-dark{
+  background-color: #18202D !important;
+}
+
+.bg-secondary{
+  background-color: #ffffff !important;
+}
+
+
 
 @media  (min-width: 992px) {
   .alto-100{
